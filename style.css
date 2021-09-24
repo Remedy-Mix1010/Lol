@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding-top: 400px;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+#timothy{
+    margin-bottom: 50px;
+    border-radius: 35%;
+}
+#WelcomeId{
+    font-family: monospace;
+    position: absolute;
+    overflow: hidden;
+    height: 400px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity:0.83;
+    background-image: linear-gradient(to right, rgb(188, 241, 234) , rgb(104, 164, 243));
+    display: table;
+    width: 100%;
+    height: 50%;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+#Innercontent{
+    display: table-cell;
+    position: relative;
+    font-size: 18px;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+#bio{
+ padding: 50px;
+ font-size: 24px;
+ font-family: 'Just Me Again Down Here', cursive;
+}
+.MenuLog{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+}
+.Linkz{
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: 'Just Me Again Down Here', cursive;
+}
+.Linkz:hover{
+    background-color: #a5e09b;
+}
